@@ -1,0 +1,217 @@
+Year,Region,State,Deposit,Credit
+2020,Northern,Haryana,475352,260619
+2020,Northern,Himachal Pradesh,103545,31306
+2020,Northern,Jammu & Kashmir,128026,58663
+2020,Northern,Punjab,410987,234738
+2020,Northern,Rajasthan,420150,334449
+2020,Northern,Chandigarh,72552,78690
+2020,Northern,Delhi,1238245,1365110
+2020,Northern,Ladakh,4955,1791
+2020,North-Eastern,Arunachal Pradesh,17171,4277
+2020,North-Eastern,Assam,164299,70625
+2020,North-Eastern,Manipur,10369,5931
+2020,North-Eastern,Meghalaya,23756,8374
+2020,North-Eastern,Mizoram,11332,4087
+2020,North-Eastern,Nagaland,12242,4596
+2020,North-Eastern,Tripura,26487,11246
+2020,Eastern,Bihar,375707,135679
+2020,Eastern,Jharkhand,234106,66703
+2020,Eastern,Odisha,341140,134862
+2020,Eastern,Sikkim,10130,3159
+2020,Eastern,West Bengal,827832,408144
+2020,Eastern,Andaman & Nicobar Islands,5811,2381
+2020,Central,Chhattisgarh,160542,100164
+2020,Central,Madhya Pradesh,396779,274405
+2020,Central,Uttar Pradesh,1144902,475157
+2020,Central,Uttarakhand,149549,54637
+2020,Western,Goa,76533,19242
+2020,Western,Gujarat,738912,552428
+2020,Western,Maharashtra,2807751,2863779
+2020,Western,Dadra & Nagar Haveli,9979,4458
+2020,Southern,Andhra Pradesh,324873,407142
+2020,Southern,Karnataka,1061242,692032
+2020,Southern,Kerala,545024,354384
+2020,Southern,Tamil Nadu,899038,966506
+2020,Southern,Lakshadweep,1115,97
+2020,Southern,Puducherry,20043,12823
+2020,Southern,Telangana,498184,516131
+2021,Northern,Haryana,538565,287499
+2021,Northern,Himachal Pradesh,112344,34770
+2021,Northern,Jammu & Kashmir,142897,69302
+2021,Northern,Punjab,459027,252685
+2021,Northern,Rajasthan,474438,369374
+2021,Northern,Chandigarh,81320,78153
+2021,Northern,Delhi,1400864,1315663
+2021,Northern,Ladakh,6161,2153
+2021,North-Eastern,Arunachal Pradesh,19525,4920
+2021,North-Eastern,Assam,173014,80871
+2021,North-Eastern,Manipur,12323,7115
+2021,North-Eastern,Meghalaya,25821,9719
+2021,North-Eastern,Mizoram,12000,5038
+2021,North-Eastern,Nagaland,12579,5432
+2021,North-Eastern,Tripura,28400,11952
+2021,Eastern,Bihar,397492,159318
+2021,Eastern,Jharkhand,256070,76371
+2021,Eastern,Odisha,363567,143676
+2021,Eastern,Sikkim,10604,3800
+2021,Eastern,West Bengal,889011,413827
+2021,Eastern,Andaman & Nicobar Islands,6043,2795
+2021,Central,Chhattisgarh,173217,108588
+2021,Central,Madhya Pradesh,453372,307614
+2021,Central,Uttar Pradesh,1277878,530106
+2021,Central,Uttarakhand,165333,58348
+2021,Western,Goa,85771,21038
+2021,Western,Gujarat,830161,580273
+2021,Western,Maharashtra,3163108,2926015
+2021,Western,Dadra & Nagar Haveli,11586,4089
+2021,Southern,Andhra Pradesh,359770,473133
+2021,Southern,Karnataka,1256023,750843
+2021,Southern,Kerala,607649,378762
+2021,Southern,Tamil Nadu,1008731,1025781
+2021,Southern,Lakshadweep,1239,97
+2021,Southern,Puducherry,22138,14337
+2021,Southern,Telangana,605468,564592
+2022,Northern,Haryana,614014,372955
+2022,Northern,Himachal Pradesh,123672,40942
+2022,Northern,Jammu & Kashmir,153229,79961
+2022,Northern,Punjab,510138,288331
+2022,Northern,Rajasthan,530634,442730
+2022,Northern,Chandigarh,89738,82007
+2022,Northern,Delhi,1489930,1425079
+2022,Northern,Ladakh,7455,2754
+2022,North-Eastern,Arunachal Pradesh,24121,6053
+2022,North-Eastern,Assam,189483,95992
+2022,North-Eastern,Manipur,13813,9163
+2022,North-Eastern,Meghalaya,29441,9512
+2022,North-Eastern,Mizoram,13102,5982
+2022,North-Eastern,Nagaland,14579,6381
+2022,North-Eastern,Tripura,31304,13562
+2022,Eastern,Bihar,442417,195592
+2022,Eastern,Jharkhand,282989,92188
+2022,Eastern,Odisha,421413,183405
+2022,Eastern,Sikkim,12411,5182
+2022,Eastern,West Bengal,978185,479463
+2022,Eastern,Andaman & Nicobar Islands,6773,3462
+2022,Central,Chhattisgarh,197250,138103
+2022,Central,Madhya Pradesh,510313,359322
+2022,Central,Uttar Pradesh,1394177,646284
+2022,Central,Uttarakhand,180784,67751
+2022,Western,Goa,92900,24092
+2022,Western,Gujarat,928468,758868
+2022,Western,Maharashtra,3491988,2717399
+2022,Western,Dadra & Nagar Haveli,13210,6766
+2022,Southern,Andhra Pradesh,385881,550560
+2022,Southern,Karnataka,1382552,888922
+2022,Southern,Kerala,670289,424247
+2022,Southern,Tamil Nadu,1117412,1158606
+2022,Southern,Lakshadweep,1230,118
+2022,Southern,Puducherry,24552,16156
+2022,Southern,Telangana,638949,660857
+2023,Northern,Haryana,702370,411060
+2023,Northern,Himachal Pradesh,136486,45325
+2023,Northern,Jammu & Kashmir,162908,90525
+2023,Northern,Punjab,560275,300770
+2023,Northern,Rajasthan,594426,485098
+2023,Northern,Chandigarh,99918,75587
+2023,Northern,Delhi,1658866,1496251
+2023,Northern,Ladakh,8249,3331
+2023,North-Eastern,Arunachal Pradesh,26656,7279
+2023,North-Eastern,Assam,207312,107839
+2023,North-Eastern,Manipur,14851,10768
+2023,North-Eastern,Meghalaya,31275,11736
+2023,North-Eastern,Mizoram,14682,6910
+2023,North-Eastern,Nagaland,15579,7628
+2023,North-Eastern,Tripura,34065,14128
+2023,Eastern,Bihar,478429,220827
+2023,Eastern,Jharkhand,304044,104090
+2023,Eastern,Odisha,463318,203732
+2023,Eastern,Sikkim,13554,5804
+2023,Eastern,West Bengal,1056367,504012
+2023,Eastern,Andaman & Nicobar Islands,7122,3675
+2023,Central,Chhattisgarh,216407,156810
+2023,Central,Madhya Pradesh,547367,393179
+2023,Central,Uttar Pradesh,1548627,712314
+2023,Central,Uttarakhand,200425,73050
+2023,Western,Goa,102038,25566
+2023,Western,Gujarat,1027453,734431
+2023,Western,Maharashtra,3922908,3905707
+2023,Western,Dadra & Nagar Haveli,14188,5407
+2023,Southern,Andhra Pradesh,429719,621699
+2023,Southern,Karnataka,1485253,958444
+2023,Southern,Kerala,724013,476457
+2023,Southern,Tamil Nadu,1211394,1281173
+2023,Southern,Lakshadweep,1413,145
+2023,Southern,Puducherry,26469,17608
+2023,Southern,Telangana,693887,719643
+2024,Northern,Haryana,788798,525579
+2024,Northern,Himachal Pradesh,150334,53601
+2024,Northern,Jammu & Kashmir,175967,102722
+2024,Northern,Punjab,617489,360008
+2024,Northern,Rajasthan,670970,581568
+2024,Northern,Chandigarh,114089,83008
+2024,Northern,Delhi,1855609,1680085
+2024,Northern,Ladakh,8848,3861
+2024,North-Eastern,Arunachal Pradesh,29205,8735
+2024,North-Eastern,Assam,220474,127803
+2024,North-Eastern,Manipur,15669,11600
+2024,North-Eastern,Meghalaya,34372,14134
+2024,North-Eastern,Mizoram,15713,7980
+2024,North-Eastern,Nagaland,17135,8821
+2024,North-Eastern,Tripura,37109,16452
+2024,Eastern,Bihar,524251,264746
+2024,Eastern,Jharkhand,336724,125014
+2024,Eastern,Odisha,522543,251114
+2024,Eastern,Sikkim,14748,6520
+2024,Eastern,West Bengal,1143463,566403
+2024,Eastern,Andaman & Nicobar Islands,7746,4110
+2024,Central,Chhattisgarh,243955,185447
+2024,Central,Madhya Pradesh,617814,468541
+2024,Central,Uttar Pradesh,1745807,871585
+2024,Central,Uttarakhand,222835,89999
+2024,Western,Goa,112021,29810
+2024,Western,Gujarat,1195365,888934
+2024,Western,Maharashtra,4667847,4695201
+2024,Western,Dadra & Nagar Haveli,15655,6900
+2024,Southern,Andhra Pradesh,480580,737696
+2024,Southern,Karnataka,1682411,1160358
+2024,Southern,Kerala,803411,564938
+2024,Southern,Tamil Nadu,1344553,1518843
+2024,Southern,Lakshadweep,1532,167
+2024,Southern,Puducherry,30226,21141
+2024,Southern,Telangana,788091,870271
+2025,Northern,Haryana,888772,607750
+2025,Northern,Himachal Pradesh,162531,61409
+2025,Northern,Jammu & Kashmir,191982,109193
+2025,Northern,Punjab,668830,391262
+2025,Northern,Rajasthan,741436,656903
+2025,Northern,Chandigarh,126596,91035
+2025,Northern,Delhi,2071013,1900568
+2025,Northern,Ladakh,9885,4277
+2025,North-Eastern,Arunachal Pradesh,33114,10273
+2025,North-Eastern,Assam,234070,146867
+2025,North-Eastern,Manipur,16806,12866
+2025,North-Eastern,Meghalaya,37779,15241
+2025,North-Eastern,Mizoram,17462,8987
+2025,North-Eastern,Nagaland,18789,9792
+2025,North-Eastern,Tripura,42140,18224
+2025,Eastern,Bihar,568726,292274
+2025,Eastern,Jharkhand,367362,144525
+2025,Eastern,Odisha,583925,281088
+2025,Eastern,Sikkim,16290,7067
+2025,Eastern,West Bengal,1225284,632168
+2025,Eastern,Andaman & Nicobar Islands,8549,4463
+2025,Central,Chhattisgarh,268161,213314
+2025,Central,Madhya Pradesh,673476,527588
+2025,Central,Uttar Pradesh,1909885,972486
+2025,Central,Uttarakhand,246010,102097
+2025,Western,Goa,120662,32244
+2025,Western,Gujarat,1273072,1014466
+2025,Western,Maharashtra,5233966,5135539
+2025,Western,Dadra & Nagar Haveli,16965,7625
+2025,Southern,Andhra Pradesh,529673,800238
+2025,Southern,Karnataka,1888708,1279545
+2025,Southern,Kerala,894855,615615
+2025,Southern,Tamil Nadu,1463026,1687805
+2025,Southern,Lakshadweep,1540,195
+2025,Southern,Puducherry,32927,23693
+2025,Southern,Telangana,867571,968183
